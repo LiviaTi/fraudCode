@@ -1,0 +1,14 @@
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_2\obj\Debug\net8.0\TestProject_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_2\obj\Debug\net8.0\TestProject_2.AssemblyInfoInputs.cache
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_2\obj\Debug\net8.0\TestProject_2.AssemblyInfo.cs
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_2\obj\Debug\net8.0\TestProject_2.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_2\bin\Debug\net8.0\TestProject_2.exe
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_2\bin\Debug\net8.0\TestProject_2.deps.json
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_2\bin\Debug\net8.0\TestProject_2.runtimeconfig.json
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_2\bin\Debug\net8.0\TestProject_2.dll
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_2\bin\Debug\net8.0\TestProject_2.pdb
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_2\obj\Debug\net8.0\TestProject_2.dll
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_2\obj\Debug\net8.0\refint\TestProject_2.dll
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_2\obj\Debug\net8.0\TestProject_2.pdb
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_2\obj\Debug\net8.0\TestProject_2.genruntimeconfig.cache
+C:\Users\ADM\Desktop\Code\C#\CsharpProjects\TestProject_2\obj\Debug\net8.0\ref\TestProject_2.dll
